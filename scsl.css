@@ -15,25 +15,6 @@ html {
     width: 240px;
 }
 
-.container-2Thooq {
-    -ms-flex-align: center;
-    -ms-flex-negative: 0;
-    -webkit-box-align: center;
-    align-items: center;
-    background: rgba(0, 0, 0, 0);
-    color: #fff;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    flex-shrink: 0;
-    font-size: 14px;
-    font-weight: 400;
-    height: 52px;
-    margin-bottom: 0px;
-    padding: 0 10px;
-    border-top: 1px solid var(--border-lines-color);
-}
-
 .theme-dark .title-3qD0b- {
     /* -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06); */
     background: var(--main-transparency);
