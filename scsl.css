@@ -2205,8 +2205,6 @@ padding: 0 !important;
 
 :root {
   --app-bg: var(--main-alt);
-  --accent-color: #4765ba;
-  --accent-rgb: 71,101,186;
   --accent-button-action: #fff;
   --accent-button-action-hover: 0.06;
   --accent-button-action-active: 0.12;
@@ -2240,8 +2238,6 @@ padding: 0 !important;
   --window-button-close: #ff605c; }
 
 .theme-dark {
-  --main-color: #16171a;
-  --main-alt: #0f1012;
   --server-color: #232327;
   --status-picker-color: #181a1d;
   --sidebar-panel-color: #111114;
