@@ -5,14 +5,7 @@ html {
 
 .container-2lgZY8 {
     background-color: rgba(0, 0, 0, 0);
-}
-
-.channels-Ie2l6A {
-    -ms-flex-negative: 0;
-    background-color: var(--main-transparency);
-    flex-shrink: 0;
-    width: 240px;
-}
+L
 
 .container-2Thooq {
     -ms-flex-align: center;
@@ -131,7 +124,12 @@ html {
     overflow: hidden;
     position: absolute;
     width: 100vw;
-THiS Was WWWWW
+}
+
+.private-channels .channel.selected a {
+    background-color: rgba(0, 0, 0, 0);
+    color: #fff;
+}
 
 .theme-dark .message-group .mentioned .message-text {
     background: rgba(114, 137, 218, 0.2);
